@@ -84,13 +84,18 @@
 
 # Markdownに多くを期待しない
 -  「必要なときに、必要な形式で取り出せる」ことが重要
+    -  下書きを「無難な記法」で書く理由：使い回しがしやすいように
     -  Pandocに対応したフォーマットなら、Pandocで他のMarkdown方言に変換する手がある
-        -  Pandoc's Markdown, reStructuredText, Emacs Org, MediaWiki..
-    -  Markdownが良い点
-        -  どんな方言であっても、（標準的な書き方を守れば）方言間で書き換えをするときのコストが小さく済む
-            -  マイナーな方言で覚えたり書き溜めたりするとちょっと大変
-    -  Markdownがいまいちな点
-        -  機械可読という観点で、書式があまり信用できない
+
+---
+
+# Markdownの長所と短所
+
+-  長所
+    -  どんな方言であっても、（標準的な書き方を守れば）方言間で書き換えをするときのコストが小さく済む
+        -  マイナーな方言で覚えたり書き溜めたりするとちょっと大変
+-  短所
+    -  機械可読という観点で、書式があまり信用できない
 
 ---
 
@@ -111,26 +116,29 @@
 ---
 
 # [Pandoc](http://pandoc.org/)のススメ
--  入力可能なマークアップ言語（一部）
+- ドキュメント変換
+-  入力
     -  Markdown (Pandoc独自, CommonMark, その他方言4つ)
-    -  reStructuredText, textile, HTML, LaTeX, MediaWiki markup, OPML, Emacs Org-Mode
+    -  reStructuredText, HTML, LaTeX, MediaWiki, Emacs Org
 -  出力フォーマット：たくさん
 -  ぶっちゃけ、HTMLにエクスポートできる処理系なら、どんなマークアップ言語でもHTML経由でPandocにぶち込める
-    -  ただしHTMLが構造的でないほどカオスになる
-    -  いい感じにパースしてくれるとは限らないけど、手修正を前提とするなら悪くない選択肢
+    -  いい感じにパースしてくれるとは限らないけど、手修正を前提とするなら悪くない
 
 ---
 
 # Markdown Night 参加しました
 -  [Markdown Night 2017 Summer - connpass](https://connpass.com/event/63383/)
--  資料
-    -  [資料一覧 - connpass](https://connpass.com/event/63383/presentation/)
-    -  おすすめ: gfxさん [Markdownはなぜ拡張され続けるのか](https://bitjourney.kibe.la/shared/entries/f740d533-0d57-44fe-a891-dfe669d16121)
--  発表スライド
-    -  Markdown処理系を実装する辛さに関する話題が多数
-    -  通称 `@__gfx__` 問題
-        -  babelmark III で表示してみる
-    -  自分のLT: [Markdownの本を一緒に作りたい](https://gitpitch.com/sky-y/markdown-night-2017summer)
+-  [資料一覧 - connpass](https://connpass.com/event/63383/presentation/)
+-  おすすめ: gfxさん [Markdownはなぜ拡張され続けるのか](https://bitjourney.kibe.la/shared/entries/f740d533-0d57-44fe-a891-dfe669d16121)
+-  自分のLT: [Markdownの本を一緒に作りたい](https://gitpitch.com/sky-y/markdown-night-2017summer)
+
+---
+
+# Markdown Night 話題
+-  Markdown処理系を実装する辛さに関する話題が多数
+-  通称 `@__gfx__` 問題
+    -  特に、リプライ機能を持つSNS実装で問題になる
+    -  [babelmark3で表示してみる](https://babelmark.github.io/?text=%40__gfx__)
 
 ---
 
