@@ -74,7 +74,8 @@
 
 ---
 
-# Q: マークアップ言語が「良い」とは、どういうことか？
+# 問い: 
+- マークアップ言語が「良い」とは、どういうことか？
 -  ヒント1：表現力が高いマークアップ言語は、たいてい流行らない？
     -  [SGML](https://ja.wikipedia.org/wiki/Standard_Generalized_Markup_Language) vs HTML
 -  ヒント2：なぜWindowsは、世界中からクソと言われつつも使われているのか？
