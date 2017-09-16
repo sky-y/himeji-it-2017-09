@@ -33,19 +33,21 @@
 
 # 発端：ワテさんのツイート
 
-      <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">“技術ドキュメンテーションのためのreStructuredTextとMarkdownを比較する | プログラミング | POSTD” <a href="https://t.co/SzJYtYWYNN">https://t.co/SzJYtYWYNN</a></p>&mdash; ワテ (@aWebprogrammer) <a href="https://twitter.com/aWebprogrammer/status/905782577025343490">2017年9月7日</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">“技術ドキュメンテーションのためのreStructuredTextとMarkdownを比較する | プログラミング | POSTD” <a href="https://t.co/SzJYtYWYNN">https://t.co/SzJYtYWYNN</a></p>&mdash; ワテ (@aWebprogrammer) <a href="https://twitter.com/aWebprogrammer/status/905782577025343490">2017年9月7日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
 # 表現に制約が多くてキツい
-      <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Markdownでは表現に制約が多すぎてキツいときは確かにある</p>&mdash; ワテ (@aWebprogrammer) <a href="https://twitter.com/aWebprogrammer/status/905782797389799424">2017年9月7日</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Markdownでは表現に制約が多すぎてキツいときは確かにある</p>&mdash; ワテ (@aWebprogrammer) <a href="https://twitter.com/aWebprogrammer/status/905782797389799424">2017年9月7日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
 # 方言が多くてキツい
-      <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">あと、Markdownは方言が多くてキツい時もある、基本的にはGFMで書こうとすると、素のMarkdownしか対応していないエディタではフェンスコードブロックが使えねぇ・・ってなって、泣きそうになる</p>&mdash; ワテ (@aWebprogrammer) <a href="https://twitter.com/aWebprogrammer/status/905783463776706560">2017年9月7日</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">あと、Markdownは方言が多くてキツい時もある、基本的にはGFMで書こうとすると、素のMarkdownしか対応していないエディタではフェンスコードブロックが使えねぇ・・ってなって、泣きそうになる</p>&mdash; ワテ (@aWebprogrammer) <a href="https://twitter.com/aWebprogrammer/status/905783463776706560">2017年9月7日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
