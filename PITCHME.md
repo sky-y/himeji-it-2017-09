@@ -59,7 +59,8 @@
 ---
 
 # Markdownは器用貧乏
-      <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ちなみに僕の持論としては「Markdownはどの用途にも書けるけど、どの用途でもベストになれない」と思っています。「器用貧乏」とか「帯に短しタスキに長し」のような運命を背負ってしまった記法だと個人的には思ってます…<a href="https://t.co/ijYWmFi9vG">https://t.co/ijYWmFi9vG</a></p>&mdash; すかいゆき / 藤原惟 (@sky_y) <a href="https://twitter.com/sky_y/status/905829011284099072">2017年9月7日</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ちなみに僕の持論としては「Markdownはどの用途にも書けるけど、どの用途でもベストになれない」と思っています。「器用貧乏」とか「帯に短しタスキに長し」のような運命を背負ってしまった記法だと個人的には思ってます…<a href="https://t.co/ijYWmFi9vG">https://t.co/ijYWmFi9vG</a></p>&mdash; すかいゆき / 藤原惟 (@sky_y) <a href="https://twitter.com/sky_y/status/905829011284099072">2017年9月7日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
