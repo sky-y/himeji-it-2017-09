@@ -16,6 +16,7 @@
 ---
 
 # 本題の前に
+
 ---
 
 # Write the Doc Kobeの件
@@ -31,7 +32,29 @@
 
 ---
 
-# 発端：ワテさんのツイート
+# Markdown Night 参加しました
+-  [Markdown Night 2017 Summer - connpass](https://connpass.com/event/63383/)
+-  [資料一覧 - connpass](https://connpass.com/event/63383/presentation/)
+-  おすすめ: gfxさん [Markdownはなぜ拡張され続けるのか](https://bitjourney.kibe.la/shared/entries/f740d533-0d57-44fe-a891-dfe669d16121)
+-  自分のLT: [Markdownの本を一緒に作りたい](https://gitpitch.com/sky-y/markdown-night-2017summer)
+
+---
+
+# Markdown Night 話題
+-  Markdown処理系を実装する辛さに関する話題が多数
+-  通称 `@__gfx__` 問題
+    -  特に、リプライ機能を持つSNS実装で問題になる
+    -  [babelmark3で表示してみる](https://babelmark.github.io/?text=%40__gfx__)
+
+---
+
+# メルカリ飯
+
+![](assets/mercari2.jpg)
+
+---
+
+# 本題：ワテさんのツイート
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">“技術ドキュメンテーションのためのreStructuredTextとMarkdownを比較する | プログラミング | POSTD” <a href="https://t.co/SzJYtYWYNN">https://t.co/SzJYtYWYNN</a></p>&mdash; ワテ (@aWebprogrammer) <a href="https://twitter.com/aWebprogrammer/status/905782577025343490">2017年9月7日</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -122,30 +145,8 @@
     -  reStructuredText, HTML, LaTeX, MediaWiki, Emacs Org
 -  出力フォーマット：たくさん
 -  ぶっちゃけ、HTMLにエクスポートできる処理系なら、どんなマークアップ言語でもHTML経由でPandocにぶち込める
-    -  いい感じにパースしてくれるとは限らないけど、手修正を前提とするなら悪くない
 
 ---
 
-# Markdown Night 参加しました
--  [Markdown Night 2017 Summer - connpass](https://connpass.com/event/63383/)
--  [資料一覧 - connpass](https://connpass.com/event/63383/presentation/)
--  おすすめ: gfxさん [Markdownはなぜ拡張され続けるのか](https://bitjourney.kibe.la/shared/entries/f740d533-0d57-44fe-a891-dfe669d16121)
--  自分のLT: [Markdownの本を一緒に作りたい](https://gitpitch.com/sky-y/markdown-night-2017summer)
-
----
-
-# Markdown Night 話題
--  Markdown処理系を実装する辛さに関する話題が多数
--  通称 `@__gfx__` 問題
-    -  特に、リプライ機能を持つSNS実装で問題になる
-    -  [babelmark3で表示してみる](https://babelmark.github.io/?text=%40__gfx__)
-
----
-
-# メルカリ飯
-
-![](assets/mercari2.jpg)
-
----
 
 # 質問ある？
